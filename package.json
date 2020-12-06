@@ -2,7 +2,7 @@
 	"name": "svg-maps",
 	"description": "A set of SVG maps",
 	"devDependencies": {
-		"lerna": "^3.13.2",
+		"lerna": "^3.22.1",
 		"svgson": "^3.1.0"
 	},
 	"scripts": {

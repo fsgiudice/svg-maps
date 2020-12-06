@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/italy.calabria",
+	"version": "1.0.0",
+	"description": "Map of Calabria, Italy",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fsgiudice/svg-maps/tree/master/packages/italy.calabria"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"italy",
+		"calabria"
+	],
+	"author": "Francesco Saverio Giudice <info@fsgiudice.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}

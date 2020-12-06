@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/italy.campania",
+	"version": "1.0.0",
+	"description": "Map of Campania, Italy",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fsgiudice/svg-maps/tree/master/packages/italy.campania"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"italy",
+		"campania"
+	],
+	"author": "Francesco Saverio Giudice <info@fsgiudice.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
