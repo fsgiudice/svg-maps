@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/italy.umbria",
+	"version": "1.0.0",
+	"description": "Map of Umbria, Italy",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fsgiudice/svg-maps/tree/master/packages/italy.umbria"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"italy",
+		"umbria"
+	],
+	"author": "Francesco Saverio Giudice <info@fsgiudice.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}

@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/italy.veneto",
+	"version": "1.0.0",
+	"description": "Map of Veneto, Italy",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fsgiudice/svg-maps/tree/master/packages/italy.veneto"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"italy",
+		"veneto"
+	],
+	"author": "Francesco Saverio Giudice <info@fsgiudice.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
