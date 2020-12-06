@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/italy.lazio",
+	"version": "1.0.0",
+	"description": "Map of Lazio, Italy",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fsgiudice/svg-maps/tree/master/packages/italy.lazio"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"italy",
+		"lazio"
+	],
+	"author": "Francesco Saverio Giudice <info@fsgiudice.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
