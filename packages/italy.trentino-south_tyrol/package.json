@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/italy.trentino-south_tyrol",
+	"version": "1.0.0",
+	"description": "Map of Trentino-South Tyrol, Italy",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fsgiudice/svg-maps/tree/master/packages/italy.trentino-south_tyrol"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"italy",
+		"trentino-south_tyrol"
+	],
+	"author": "Francesco Saverio Giudice <info@fsgiudice.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-4.0"
+}
